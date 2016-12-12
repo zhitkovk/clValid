@@ -4,4 +4,4 @@
 
 # UPD for package
 
-Replaced "ward" option in the clValid function on "ward.D" and "ward.D2" to be consistent with new `hclust` set of options.
+Replaced "ward" option in the clValid function with "ward.D" and "ward.D2" to be consistent with new `hclust` set of options.
